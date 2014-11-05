@@ -1,0 +1,5 @@
+[user]
+	name = ethan-enggrid
+	email = ethanyang4623@gmail.com
+[core]
+	excludesfile = /home/cyang90/.gitignore_global
